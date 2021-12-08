@@ -1,0 +1,14 @@
+{
+    "js": [
+        "index.min.js"
+    ],
+    "css": [
+        "main.ea4a5c2c.css"
+    ],
+    "library": "React16Blocks",
+    "publicPath": "http://panmenglin.github.io/tenon-examples/react16/",
+    "blocks": [
+        "UserInfo",
+        "ChartLine"
+    ]
+}

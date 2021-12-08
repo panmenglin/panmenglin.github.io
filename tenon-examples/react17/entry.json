@@ -1,0 +1,25 @@
+{
+    "js": [
+        "static/main_0c770a44.js"
+    ],
+    "css": [
+        "static/main.0c770a44.css"
+    ],
+    "library": "React17Blocks",
+    "publicPath": "http://panmenglin.github.io/tenon-examples/react17/",
+    "blocks": [
+        "UserInfo",
+        "LineChart"
+    ],
+    "externals": {
+        "js": [
+            "http://unpkg.com/react@17.0.2/umd/react.production.min.js",
+            "http://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js",
+            "http://unpkg.com/moment@2.25.3/min/moment-with-locales.min.js",
+            "http://unpkg.com/antd@4.16.13/dist/antd.min.js"
+        ],
+        "css": [
+            "http://unpkg.com/antd@4.16.13/dist/antd.min.css"
+        ]
+    }
+}

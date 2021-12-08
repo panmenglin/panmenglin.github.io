@@ -6,7 +6,7 @@
         "static/main.0c770a44.css"
     ],
     "library": "React17Blocks",
-    "publicPath": "http://panmenglin.github.io/tenon-examples/react17/",
+    "publicPath": "https://panmenglin.github.io/tenon-examples/react17/",
     "blocks": [
         "UserInfo",
         "LineChart"

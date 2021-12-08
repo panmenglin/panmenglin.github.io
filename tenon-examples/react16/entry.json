@@ -3,10 +3,10 @@
         "index.min.js"
     ],
     "css": [
-        "main.ea4a5c2c.css"
+        "main.1ac8f738.css"
     ],
     "library": "React16Blocks",
-    "publicPath": "http://panmenglin.github.io/tenon-examples/react16/",
+    "publicPath": "https://panmenglin.github.io/tenon-examples/react16/",
     "blocks": [
         "UserInfo",
         "ChartLine"

@@ -1,14 +1,14 @@
 {
     "js": [
-        "js/chunk-vendors.d783ad82.js",
-        "js/index.6ed7cf7e.js"
+        "js/chunk-vendors.96f44057.js",
+        "js/index.b060e22f.js"
     ],
     "css": [
         "css/chunk-vendors.789db11c.css",
         "css/index.872bb494.css"
     ],
     "library": "Vue3Blocks",
-    "publicPath": "http://panmenglin.github.io/tenon-examples/vue3/",
+    "publicPath": "https://panmenglin.github.io/tenon-examples/vue3/",
     "blocks": [
         "ChartLine"
     ]
